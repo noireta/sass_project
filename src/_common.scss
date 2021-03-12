@@ -1,0 +1,15 @@
+
+
+/* BASIC STYLES */
+body {
+    font-family: $main-font , sans-serif;;
+    font-size:1em;
+    line-height:2em;
+    background:url('../images/bg.gif') $color-white repeat-x;
+    margin:0;
+}
+main {
+    width:940px;
+    margin:0 auto;
+    padding:0 10px;
+}
